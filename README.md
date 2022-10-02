@@ -1,3 +1,11 @@
+# Installation Guide
+Clone the repository. 
+Run npm install in root directory. 
+In a terminal, run npm start.
+On another terminal, run npm run electron-dev
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
